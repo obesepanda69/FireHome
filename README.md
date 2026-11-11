@@ -1,4 +1,4 @@
-# Home
+# FireHome
 
 A clean home screen for Fire TV.
 
